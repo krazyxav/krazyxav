@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krazyxav
-- 👀 I’m interested in improving vehicules,
+- 👀 I’m interested in improving vehicules, and home with domotics
 - 🌱 I’m currently learning raspberry, arduino
 
 <!---
